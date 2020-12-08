@@ -1,0 +1,14 @@
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Services.deps.json
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Services.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Services.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Models.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.csprojAssemblyReference.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.AssemblyInfoInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.AssemblyInfo.cs
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.csproj.CopyComplete
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.pdb

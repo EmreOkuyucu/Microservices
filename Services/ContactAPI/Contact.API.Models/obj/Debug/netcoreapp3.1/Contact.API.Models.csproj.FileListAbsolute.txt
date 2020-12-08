@@ -1,0 +1,9 @@
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\netcoreapp3.1\Contact.API.Models.deps.json
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\netcoreapp3.1\Contact.API.Models.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\netcoreapp3.1\Contact.API.Models.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.AssemblyInfoInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.AssemblyInfo.cs
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.csprojAssemblyReference.cache

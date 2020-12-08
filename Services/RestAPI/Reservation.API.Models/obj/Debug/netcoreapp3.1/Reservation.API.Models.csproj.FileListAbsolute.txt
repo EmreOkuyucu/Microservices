@@ -1,0 +1,9 @@
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.deps.json
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.dll
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.csprojAssemblyReference.cache
