@@ -15,7 +15,7 @@ services:
 
 
  s_contact_api:
-   container_name: c_contact_gateway
+   container_name: c_contact_api
    image: emreokuyucu/contactapi
    build:
      context: .
@@ -27,7 +27,7 @@ services:
 
 
  s_res_api:
-   container_name: c_res_gateway
+   container_name: c_res_api
    image: emreokuyucu/resapi
    build:
      context: .
