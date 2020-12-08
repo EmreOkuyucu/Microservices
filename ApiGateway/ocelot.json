@@ -3,11 +3,11 @@
     {
       //Ben bu path'e gelenleri hangi adrese göndereyim
       "DownstreamPathTemplate": "/api/res/{id}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "c_res_api",
-          "Port": 44370
+          "Port": 7000
         }
       ],
       //Dýþarýdan bize gelen apigateway'a gelecek olan herhangi path istenilen birþey verilebilir
@@ -17,11 +17,11 @@
     {
       //Ben bu path'e gelenleri hangi adrese göndereyim
       "DownstreamPathTemplate": "/api/contact/{id}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "c_contact_api",
-          "Port": 44390
+          "Port": 9000
         }
       ],
       //Dýþarýdan bize gelen apigateway'a gelecek olan herhangi path istenilen birþey verilebilir
