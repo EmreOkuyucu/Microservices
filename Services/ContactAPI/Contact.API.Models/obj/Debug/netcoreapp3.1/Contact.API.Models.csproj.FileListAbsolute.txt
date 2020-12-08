@@ -6,3 +6,4 @@ C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Servic
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.csproj.CoreCompileInputs.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.dll
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.pdb
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.csprojAssemblyReference.cache
