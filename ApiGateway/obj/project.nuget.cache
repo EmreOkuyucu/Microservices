@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Bb70o9/gRvyVsGvG6EtizUTAeMlv/Lp0u2ZIaVsoz7RpTxPulQqoc2s+1o4TaTacRZS1kEUX6fy5ADA5DVrRUQ==",
+  "dgSpecHash": "Fsor3DJRDheduTEPAyCsuDPqxSweGWwM734KQ0ZXGK5kH6uTwr6g4/ypFwy5Xejqm1jCrBf2EMjstituDCDkSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\emre.okuyucu\\Desktop\\Microservice Çalışmalarım\\Microservices\\ApiGateway\\ApiGateway.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\emre.okuyucu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\emre.okuyucu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\emre.okuyucu\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.3\\microsoft.extensions.diagnosticadapter.3.1.3.nupkg.sha512",
+    "C:\\Users\\emre.okuyucu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\emre.okuyucu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\emre.okuyucu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\emre.okuyucu\\.nuget\\packages\\ocelot\\16.0.1\\ocelot.16.0.1.nupkg.sha512",

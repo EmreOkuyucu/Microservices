@@ -20,9 +20,6 @@ C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGat
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfoInputs.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfo.cs
-C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
-C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.RazorTargetAssemblyInfo.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CopyComplete
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
@@ -30,3 +27,6 @@ C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGat
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache

@@ -16,8 +16,6 @@ C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Servic
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csprojAssemblyReference.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfoInputs.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfo.cs
-C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
-C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.RazorTargetAssemblyInfo.cache
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CopyComplete
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\staticwebassets\Reservation.API.StaticWebAssets.Manifest.cache
@@ -25,3 +23,5 @@ C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Servic
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.dll
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.pdb
 C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.genruntimeconfig.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
+C:\Users\emre.okuyucu\Desktop\Microservice Çalışmalarım\Microservices\Services\RestAPI\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache

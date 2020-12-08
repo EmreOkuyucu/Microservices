@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "na1PB9O0DeUZZBL3Rsm97S3xOIyQLJbkoCQm1dpM+Iv1+VHxEkXHFxuKTn3fPMc9IhjdcuzEt6EFX6MwSYfX4g==",
+  "dgSpecHash": "EsOOtpM98Utz+ynuPdG4bUkQtgu4XQkr7+coUdknvq7gEChP05Zr5yfVA2Dbu30B92pAuBNeju7xL+kqTOL5Jw==",
   "success": true,
   "projectFilePath": "C:\\Users\\emre.okuyucu\\Desktop\\Microservice Çalışmalarım\\Microservices\\Services\\RestAPI\\Reservation.API\\Reservation.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\emre.okuyucu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }

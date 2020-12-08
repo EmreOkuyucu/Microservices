@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NpEdfl4Jsbz6JORkpvgwpYuNA3GMAGaFkJcGRyuxWWltzuRO0OGj72fozwnKatDijzQEvOwPstWyCicMIIRxDg==",
+  "dgSpecHash": "LyUIy/Lo04ksYsLA/7YGrvECFkcNpa/YeUsxPo+72M7drzYkkgl9FpMaqlYpzEEQoq5qpT9rAZGfpMFut0ydUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\emre.okuyucu\\Desktop\\Microservice Çalışmalarım\\Microservices\\Services\\ContactAPI\\Contact.API\\Contact.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\emre.okuyucu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
